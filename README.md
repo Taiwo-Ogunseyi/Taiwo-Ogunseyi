@@ -11,7 +11,7 @@ I am passionate about safeguarding digital assets and enhancing security posture
 - <b>Password Strength Analyzer & Manager (In progress)</b>
   - [Overview:]
   - A tool that evaluates password complexity and suggests improvements, with optional encrypted storage for passwords
-  - <a href="https://github.com/joshmadakor1/Algorithms-Practice"> Link </a>
+  - <a href="https://github.com/Taiwo-Ogunseyi/Algorithms-Practice"> Link </a>
 
 
 <h2>📺 Licenses & Certifications </h2>
