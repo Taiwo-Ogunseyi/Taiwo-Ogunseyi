@@ -8,9 +8,6 @@ I am passionate about safeguarding digital assets and enhancing security posture
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
-
-
 - <b>Password Strength Analyzer & Manager (In progress)</b>
   - [Overview:]
   - A tool that evaluates password complexity and suggests improvements, with optional encrypted storage for passwords
