@@ -11,8 +11,7 @@ I am passionate about safeguarding digital assets and enhancing security posture
 - <b>Coffeecorp Network (In progress)</b>
   - [Overview:]
   - Coffeecorp, a rapidly expanding coffee company with locations across the country, is working to strengthen the security of its growing IT infrastructure. As part of its internal IT development program, implement a secure and efficient small office network setup with VLANs, ACLs, DNS, and management restrictions.
-  - <a href="https://github.com/Taiwo-Ogunseyi/Algorithms-Practice"> Link </a>
-
+ - <a href="https://github.com/Taiwo-Ogunseyi/Coffeecorp-Network"> Link </a>
 
 <h2>📺 Licenses & Certifications </h2>
 
