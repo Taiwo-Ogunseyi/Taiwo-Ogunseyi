@@ -8,9 +8,9 @@ I am passionate about safeguarding digital assets and enhancing security posture
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Password Strength Analyzer & Manager (In progress)</b>
+- <b>Coffe Corp Network (In progress)</b>
   - [Overview:]
-  - A tool that evaluates password complexity and suggests improvements, with optional encrypted storage for passwords
+  - CoffeeCorp, a rapidly expanding coffee company with locations across the country, is working to strengthen the security of its growing IT infrastructure. As part of its internal IT development program, implement a secure and efficient small office network setup with VLANs, ACLs, DNS, and management restrictions
   - <a href="https://github.com/Taiwo-Ogunseyi/Algorithms-Practice"> Link </a>
 
 
