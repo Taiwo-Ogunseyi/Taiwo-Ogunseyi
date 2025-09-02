@@ -8,7 +8,7 @@ I am passionate about safeguarding digital assets and enhancing security posture
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Prosperity Bank</b>
+- <b>Prosperity Bank (In progress)</b>
   - [Overview:]
   - Prosperity Bank has observed failed logins on Windows 10 and privilege escalation attempts on Ubuntu, indicating possible attacks. As a SOC analyst, investigate these incidents using Wazuh, report findings, and recommend mitigations such as pfSense VLAN segmentation to reduce lateral movement risks.
  - <a href="https://github.com/Taiwo-Ogunseyi/Coffeecorp-Network"> Link </a>
