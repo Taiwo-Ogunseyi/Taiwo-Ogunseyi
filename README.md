@@ -18,12 +18,12 @@ Identify IOCs and correlate with threat intel, Report includes: Executive Summar
 Enrich and analyze data for threat context. Report includes: Executive Summary, Methodology, Key Findings, Correlation (MITRE ATT&CK), Recommendations.
  - <a href="https://github.com/Taiwo-Ogunseyi/Prosperity-Bank-SOC-Analyst"> Link </a>
 
-- <b>Prosperity Bank-SOC Analyst</b>
+- <b>Prosperity Bank-SOC Analyst Capstone</b>
   - [Overview:]
   - Prosperity Bank has observed failed logins on Windows 10 and privilege escalation attempts on Ubuntu, indicating possible attacks. As a SOC analyst, investigate these incidents using Wazuh, report findings, and recommend mitigations such as pfSense VLAN segmentation to reduce lateral movement risks.
  - <a href="https://github.com/Taiwo-Ogunseyi/Prosperity-Bank-SOC-Analyst"> Link </a>
 
-- <b>Coffeecorp Network</b>
+- <b>Coffeecorp Network Capstone</b>
   - [Overview:]
   - Coffeecorp, a rapidly expanding coffee company with locations across the country, is working to strengthen the security of its growing IT infrastructure. As part of its internal IT development program, implement a secure and efficient small office network setup with VLANs, ACLs, DNS, and management restrictions.
  - <a href="https://github.com/Taiwo-Ogunseyi/Coffeecorp-Network"> Link </a>
