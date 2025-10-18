@@ -8,6 +8,16 @@ I am passionate about safeguarding digital assets and enhancing security posture
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Cyber Threat Intelligence Capstone</b>
+  - [Overview:]
+  - Malware Threat Intel ExerciseResearch malware hashes from VirusTotal.
+Trigger Wazuh threat intel integration. Report includes: Executive Summary, Technical Analysis, Detection/Correlation, Impact, Recommendations.
+  - Phishing Analysis ExerciseAnalyze phishing emails (headers, links, attachments).
+Identify IOCs and correlate with threat intel, Report includes: Executive Summary, IOCs, Technical Analysis, Attribution, Mitigation/User Awareness.
+  - OSINT Threat Intel ExerciseInvestigate suspicious domains, IPs, or actors using OSINT tools (VirusTotal, Shodan, URLScan, MISP).
+Enrich and analyze data for threat context. Report includes: Executive Summary, Methodology, Key Findings, Correlation (MITRE ATT&CK), Recommendations.
+ - <a href="https://github.com/Taiwo-Ogunseyi/Prosperity-Bank-SOC-Analyst"> Link </a>
+
 - <b>Prosperity Bank-SOC Analyst</b>
   - [Overview:]
   - Prosperity Bank has observed failed logins on Windows 10 and privilege escalation attempts on Ubuntu, indicating possible attacks. As a SOC analyst, investigate these incidents using Wazuh, report findings, and recommend mitigations such as pfSense VLAN segmentation to reduce lateral movement risks.
