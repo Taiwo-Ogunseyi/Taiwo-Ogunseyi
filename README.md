@@ -8,6 +8,13 @@ I am passionate about safeguarding digital assets and enhancing security posture
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>PenTesting Capstone</b>
+  - [Overview:]
+  - Securing Digital Infrastructure and Web Applications in the Banking Sector - Pentesting Capstone Project (VulnBank)
+  - Vulnbank, a regional bank, is conducting a penetration testing assessment on their publicly accessible web asset, as recent increase in online activity have raised concerns about potential exposure to cyber threats.
+  - The assessment includes a focused penetration test to map out attack surface, identify vulnerabilities, validate their impact, and provide evidence-based findings that will help Vulnbank strengthen the security and resilience of their web platform. 
+ - <a href="https://github.com/Taiwo-Ogunseyi/Pentesting-Capstone-Project---VulnBank"> Link </a>
+
 - <b>Cyber Threat Intelligence Capstone</b>
   - [Overview:]
   - Malware Threat Intel Exercise - Research malware hashes from VirusTotal.
